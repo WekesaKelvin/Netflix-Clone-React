@@ -22,7 +22,6 @@ A sleek and fully responsive **Netflix Clone** built with **React**, mimicking t
 - **Firebase (optional)**
 - **SCSS / Styled Components**
 
----
 
 ## Installation
 
