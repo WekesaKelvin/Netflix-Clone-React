@@ -20,7 +20,7 @@ A sleek and fully responsive **Netflix Clone** built with **React**, mimicking t
 - **TMDB API**
 - **React Router DOM**
 - **Firebase (optional)**
-- **CSS / SCSS / Styled Components**
+- **SCSS / Styled Components**
 
 ---
 
